@@ -1,3 +1,4 @@
+#test
 class java (  
   $source_url = "http://download.oracle.com/otn-pub/java/jdk/7u67-b01", 
   $java_major_version = 7, 
